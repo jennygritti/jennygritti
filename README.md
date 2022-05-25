@@ -1,11 +1,16 @@
 
 <h2 align="center">Oi, oi Guerreiras e Guerreiros, eu sou a Jenny Gritti!!! 🍒☠️</h2>
 
+<img align="right" alt="jenny-gif" height="150" src="https://i.imgur.com/wUTCsje.png">
+
+
+<br>
+
   - 👩‍🎓 Estudante de Jogos Digitais na Fatec São Caetano do Sul
   - 💻 Bootcamp Generation Brasil
   - 👩‍🦰 Ela|Dela
 
-<img align="right" width="100" src="https://i.imgur.com/Jo7Sg4U.gif"/>
+<br>
 
   ##
   
