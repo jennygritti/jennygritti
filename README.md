@@ -1,18 +1,13 @@
-<div align="center">
-Oi, oi Guerreiras e Guerreiros, eu sou a Jenny Gritti!!! 🍒☠️
-<hr>
 
-  
-<div><br>
-  • 🎓 Estudante de Jogos Digitais na Fatec São Caetano do Sul
-  • 💻 Bootcamp Generation Brasil
-  
-  <img align="right" alt="jenny-gif" width="50" src="https://i.imgur.com/Jo7Sg4U.gif" />
-</div>
-<hr>
+<h2 align="center">Oi, oi Guerreiras e Guerreiros, eu sou a Jenny Gritti!!! 🍒☠️</h2>
+
+<img align="center" width="100px" src="https://i.imgur.com/Jo7Sg4U.gif">
+
+  - 👩‍🎓 Estudante de Jogos Digitais na Fatec São Caetano do Sul
+  - 💻 Bootcamp Generation Brasil
+  - 👩‍🦰 Ela|Dela
 
 <!-- Stats -->
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jennygritti&show_icons=true&theme=midnight-purple" />
 </a>
@@ -52,8 +47,7 @@ Oi, oi Guerreiras e Guerreiros, eu sou a Jenny Gritti!!! 🍒☠️
   <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <!-- /redes sociais -->
-  
-</div>
+ 
 
 
 <!--
