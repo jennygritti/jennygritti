@@ -1,11 +1,12 @@
 
 <h2 align="center">Oi, oi Guerreiras e Guerreiros, eu sou a Jenny Gritti!!! 🍒☠️</h2>
 
-<img align="center" width="100px" src="https://i.imgur.com/Jo7Sg4U.gif">
+<img align="right" width="100px" src="https://i.imgur.com/Jo7Sg4U.gif">
 
   - 👩‍🎓 Estudante de Jogos Digitais na Fatec São Caetano do Sul
   - 💻 Bootcamp Generation Brasil
   - 👩‍🦰 Ela|Dela
+
 
 <!-- Stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
