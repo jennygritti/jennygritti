@@ -6,7 +6,7 @@
 
 <br>
 
-  - 👩‍🎓 Estudante de Jogos Digitais na Fatec São Caetano do Sul
+  - 👩‍🎓 Graduada Jogos Digitais na Fatec São Caetano do Sul
   - 💻 Bootcamp Generation Brasil
   - 👩‍🦰 Ela|Dela
   - 📖 <a href="https://jennygritti.netlify.app/" target="_blank">Portfolio Jenny</a>
