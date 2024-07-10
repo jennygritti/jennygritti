@@ -6,7 +6,7 @@
 
 <br>
 
-  - 👩‍🎓 Graduada em Jogos Digitais na Fatec São Caetano do Sul
+  - 👩‍🎓 MBA em Comunicação e Marketing (cursando) | MBA em Gestão de Projetos e Metodologias Ágeis | Graduada em Jogos Digitais na Fatec São Caetano do Sul
   - 💻 Bootcamp Generation Brasil
   - 👩‍🦰 Ela|Dela
   - 📖 <a href="https://jennygritti-games.netlify.app/" target="_blank">Portfolio Jenny</a>
